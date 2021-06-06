@@ -1,1 +1,55 @@
-htm
+.header {
+    position: absolute;
+    width: 375px;
+    height: 92px;
+    left: 0px;
+    top: 0px;
+    background: #3C3A39;
+   }
+   .icon-bar {
+     height: 44px;
+     width: 375px;
+     left: 0px;
+     top: 0px;
+      border-radius: 0px;
+   
+   }
+   
+   .icon-bar a {
+     float: left;
+     width: 20%;
+     text-align: center;
+     padding: 12px 0;
+     transition: all 0.3s ease;
+     color: white;
+     font-size: 36px;
+   }
+   
+   i {
+    
+     float: right;
+     width: 24.33px;
+     height: 11.33px;
+     text-align: center;
+     color: white;
+     font-size: 19px;
+     font-family: Roboto;
+     padding: px 1px 2px 3px
+       
+   
+   }
+   
+   p{
+   color:white;
+   font-family: Roboto;
+   font-size: 19px;
+   font-style: normal;
+   padding: px 1px 2px 3px
+   }
+     
+   
+   
+     
+     
+     
+     
