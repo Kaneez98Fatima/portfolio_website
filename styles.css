@@ -4,6 +4,7 @@
   box-sizing: border-box;
   list-style-type: none;
   text-decoration: none;
+  font-family: inaimathi;
 }
 
 .body {
@@ -361,7 +362,7 @@ h2 {
 
 .list-container {
   padding: 25px 0;
-  font-family: InaiMathi;
+  font-family:inaimethi;
 }
 
 .list {
