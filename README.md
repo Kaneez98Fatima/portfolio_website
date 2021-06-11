@@ -1,7 +1,7 @@
 # Portfolio_website
 ### Portfolio Website
 
-> This project is a Microverse exercise on HTML and CSS that demonstrates the knowledge of Semantic HTML, flexbox, background properties, and mobile-first responsiveness
+> This project is a exercise on HTML and CSS for the practice of Semantic HTML, flexbox, background properties, and mobile-first responsiveness
 
 ![screenshot](screenshot.png)
 
@@ -10,7 +10,7 @@
 
 - Semantic HTML & CSS
 - Github workflow
-- Linters(Lighthouse, stylelint, Webhint)
+- Linters Set Up
 
 ## Live Preview 
 
@@ -43,5 +43,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-[MIT licensed](./LICENSE).
+[MIT licensed]
 
