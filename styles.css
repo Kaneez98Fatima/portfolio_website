@@ -55,7 +55,7 @@
 
 .img {
   background-image: url("./images/header-image.png");
-  background-position: right bottom -20%;
+  background-position: right bottom -50%;
   background-repeat: no-repeat;
 }
 
@@ -63,12 +63,12 @@ h1 {
   display: block;
   font-family: "Crete Round", serif;
   font-style: normal;
-  font-weight: 400;
-  line-height: 64px;
+  font-weight: 1000;
+  line-height: 60px;
   letter-spacing: 0.37px;
   text-align: left;
   color: #ff6b00;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 
 .bottom {
@@ -138,8 +138,6 @@ h2 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  border: 30px solid #aaa;
-  border-radius: 3px;
   height: 300px;
 }
 
@@ -192,17 +190,7 @@ ul#horizontal-list {
   padding-top: 20px;
 }
 
-.work-btn {
-  font-family: "Inter", sans-serif;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 20px;
-  color: #091e42;
-  padding: 5px 10px;
-  height: 40px;
-  background: #fff;
-  border: 1px solid #8993a4;
-}
+
 
 .work-btn:hover {
   background: #fff5e1;
@@ -372,6 +360,24 @@ ul#horizontal-list {
   font-family: inaimethi, sans-serif;
 }
 
+.work-button:hover {
+  background: #fff5e1;
+  border: 1px solid #f55800;
+  color: #f55800;
+}
+
+.work-button {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #091e42;
+  padding: 5px 10px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #8993a4;
+}
+
 .list {
   color: #fff;
   text-align: center;
@@ -393,15 +399,14 @@ ul#horizontal-list {
 }
 
 .button {
-  background-color: #fff;
-  border: 1px solid #070707;
+  background-color: #f55800;
+  border: 1px solid #eceaea;
   color: black;
-  padding: 15px 32px;
-  text-align: center;
+  padding: 10px 10px;
+  text-align:left;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 105px;
+ 
   cursor: pointer;
 }
 
