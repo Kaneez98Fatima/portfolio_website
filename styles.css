@@ -68,7 +68,7 @@ h1 {
   letter-spacing: 0.37px;
   text-align: left;
   color: #ff6b00;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .bottom {
@@ -189,8 +189,6 @@ ul#horizontal-list {
   list-style: none;
   padding-top: 20px;
 }
-
-
 
 .work-btn:hover {
   background: #fff5e1;
@@ -360,12 +358,6 @@ ul#horizontal-list {
   font-family: inaimethi, sans-serif;
 }
 
-.work-button:hover {
-  background: #fff5e1;
-  border: 1px solid #f55800;
-  color: #f55800;
-}
-
 .work-button {
   font-family: "Inter", sans-serif;
   font-weight: 500;
@@ -376,6 +368,12 @@ ul#horizontal-list {
   height: 40px;
   background: #fff;
   border: 1px solid #8993a4;
+}
+
+.work-button:hover {
+  background: #fff5e1;
+  border: 1px solid #f55800;
+  color: #f55800;
 }
 
 .list {
@@ -403,10 +401,9 @@ ul#horizontal-list {
   border: 1px solid #eceaea;
   color: black;
   padding: 10px 10px;
-  text-align:left;
+  text-align: left;
   text-decoration: none;
   font-size: 16px;
- 
   cursor: pointer;
 }
 
