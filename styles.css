@@ -404,3 +404,9 @@ ul#horizontal-list {
   margin: 4px 105px;
   cursor: pointer;
 }
+.img2 {
+  background-image: url("./images/about-1.png");
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
+
