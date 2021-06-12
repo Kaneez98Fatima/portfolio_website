@@ -185,11 +185,12 @@ h2 {
 .proj-flex {
   flex-direction: column;
 }
+
 ul#horizontal-list {
-	min-width: 696px;
-	list-style: none;
-	padding-top: 20px;
-	}
+  min-width: 696px;
+  list-style: none;
+  padding-top: 20px;
+}
 
 .work-btn {
   font-family: "Inter", sans-serif;
@@ -388,13 +389,13 @@ ul#horizontal-list {
 }
 
 .cursor {
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .button {
-  background-color:#fff;
-  border: 1px solid #070707;;
-  color:black;
+  background-color: #fff;
+  border: 1px solid #070707;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
